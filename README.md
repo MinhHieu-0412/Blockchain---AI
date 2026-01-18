@@ -1,1 +1,1 @@
-# Blockchain---AI
+# 20-day learning challenge
